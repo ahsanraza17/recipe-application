@@ -1,0 +1,347 @@
+@media (max-width:1024px){
+    .top {
+        width: 58vw;
+    }
+
+    .favorite {
+        padding: 27px;
+    }
+
+    .nav {
+        padding: 22px;
+    }
+
+    .fa-search {
+        padding: 13px;
+    }
+
+    #searchBar {
+        width: 267px;
+        height: 3vh;
+        padding: 17px;
+    }
+
+    .meal {
+        width: 14vw;
+    }
+
+    #img1 {
+        width: 10vw;
+    }
+
+    .img-des {
+        gap: 33px;
+    }
+
+    .des {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .meal-card {
+        width: 58vw;
+    }
+
+    .meal-name {
+        padding: 20px;
+        font-size: 25px;
+    }
+
+    .bottom h2 {
+        margin-bottom: 20px;
+        font-size: 34px;
+    }
+    .pop-up {
+        width: 100%;
+    }
+}
+
+@media (max-width: 899px) {
+    #searchBar {
+        height: 6vh;
+    }
+
+    .top {
+        width: 40vw;
+    }
+
+    .meal {
+        width: 10vw;
+    }
+
+    .des {
+        font-size: 9px;
+        font-weight: 600;
+    }
+
+    .meal-card {
+        width: 40vw;
+    }
+
+    .pop-up {
+        width: 67%;
+    }
+
+    #img1 {
+        width: 10vw;
+    }
+
+
+}
+
+@media (max-width: 820px) {
+
+    .top {
+        width: 70vw;
+    }
+
+    .nav {
+        padding: 20px;
+    }
+
+    #searchBar {
+        height: 4vh;
+        width: 272px;
+    }
+
+    .fa-search {
+        padding: 16px;
+    }
+
+    .meal {
+        width: 18vw;
+    }
+
+    #img1 {
+        width: 13vw;
+    }
+
+    .img-des {
+        gap: 20px;
+    }
+
+    .des {
+        font-size: 14px;
+    }
+
+    .meal-card {
+        width: 58vw;
+    }
+
+    .meal-name {
+        padding: 29px;
+        font-size: 24px;
+    }
+
+    .pop-up {
+        width: 100%;
+    }
+}
+
+
+
+@media (max-width:768px) {
+    .top {
+        width: 70vw;
+    }
+
+    .favorite {
+        padding: 26px;
+        gap: 30px;
+    }
+
+    .nav {
+        padding: 20px;
+    }
+
+    #searchBar {
+        height: 4vh;
+        width: 262px;
+        padding: 20px;
+    }
+
+    .fa-search {
+        padding: 12px;
+    }
+
+    .meal {
+        width: 20vw;
+    }
+
+    .img-des {
+        gap: 30px;
+    }
+
+    #img1 {
+        width: 14vw;
+    }
+
+    .des {
+        font-size: 15px;
+    }
+
+    .meal-card {
+        width: 70vw;
+    }
+
+    .meal-card-img img {
+        height: 34vh;
+    }
+
+    .meal-name {
+        padding: 20px;
+        font-size: 25px;
+    }
+
+    .pop-up {
+        width: 100%;
+    }
+}
+
+@media (max-width: 650px) {
+    .pop-up {
+        width: 100%;
+    }
+
+    .meal {
+        width: 12vw;
+    }
+
+    #img1 {
+        width: 10vw;
+    }
+}
+
+@media (max-width:500px) {
+    .top {
+        width: 60vw;
+    }
+
+    .meal {
+        width: 16vw;
+    }
+
+    #img1 {
+        width: 10vw;
+    }
+
+    .meal-card {
+        width: 60vw;
+    }
+}
+
+@media (max-width:440px) {
+    .top {
+        width: 87vw;
+    }
+
+    #searchBar {
+        height: 5vh;
+    }
+
+    .meal {
+        width: 24vw;
+    }
+
+    #img1 {
+        width: 18vw;
+    }
+
+    .meal-card {
+        width: 87vw;
+    }
+
+    .pop-up {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .left-pop-up {
+        width: 100%;
+        height: 340px;
+    }
+
+    .right-pop-up {
+        width: 100%;
+    }
+}
+
+@media (max-width:414px) {
+    .top {
+        width: 87vw;
+    }
+
+    #searchBar {
+        height: 5vh;
+    }
+
+    .meal {
+        width: 24vw;
+    }
+
+    #img1 {
+        width: 18vw;
+    }
+
+    .meal-card {
+        width: 87vw;
+    }
+
+    .pop-up {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .left-pop-up {
+        width: 100%;
+        height: 340px;
+    }
+
+    .right-pop-up {
+        width: 100%;
+    }
+
+    .left-pop-up {
+        height: 444px;
+    }
+}
+
+@media (max-width:375px) {
+    .top {
+        width: 87vw;
+    }
+
+    #searchBar {
+        height: 5vh;
+    }
+
+    .meal {
+        width: 24vw;
+    }
+
+    #img1 {
+        width: 18vw;
+    }
+
+    .meal-card {
+        width: 87vw;
+    }
+
+    .pop-up {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    .left-pop-up {
+        width: 100%;
+        height: 267px;
+    }
+
+    .right-pop-up {
+        width: 100%;
+    }
+
+    .left-pop-up {
+        height: 444px;
+    }
+}
